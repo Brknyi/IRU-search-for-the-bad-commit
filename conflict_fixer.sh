@@ -15,4 +15,4 @@ else
 	cat logs.txt
 fi
 git bisect reset >> logs.txt 2>&1
-#rm logs.txt
+rm logs.txt
