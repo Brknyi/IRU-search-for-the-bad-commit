@@ -65,4 +65,4 @@ Kimenet:
 The ID of the first bad commit:  72a0dae3649087efe712ba769cc709422b8dbc36
 ```
 
-A parancs ezen repository-ban futtatható, mivel a teszteléshez hazsnálható commit-okat tartalmazza.
+A parancs ezen repository-ban futtatható, mivel a teszteléshez használható commit-okat tartalmazza.
