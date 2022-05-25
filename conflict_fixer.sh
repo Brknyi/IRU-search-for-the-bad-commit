@@ -14,5 +14,5 @@ else
 	echo "A problem is occurred. The log of the script: "
 	cat logs.txt
 fi
-git bisect reset >> temp.txt 2>&1
+git bisect reset >> logs.txt 2>&1
 rm logs.txt
