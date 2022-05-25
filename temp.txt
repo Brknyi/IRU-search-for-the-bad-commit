@@ -1,0 +1,6 @@
+Previous HEAD position was 7645da1 Dummy merge conflict commmit with comment
+Switched to branch 'main'
+M	README.md
+M	conflict_fixer.sh
+Your branch is ahead of 'origin/main' by 14 commits.
+  (use "git push" to publish your local commits)
